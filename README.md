@@ -69,7 +69,7 @@ This process will take time proportional to the number of digits in our proof of
 
 - An index dedicated to the names of all users.
 
-![image](diagram.png)
+![image](diagrama.png)
 
 ## Complexity Analysis
 
